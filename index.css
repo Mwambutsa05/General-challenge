@@ -6,6 +6,12 @@
     display: flex;
     justify-content: center;
 } */
+ .header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: #4d6370;
+ }
 .container{
     width: 80%;
     display: flex;
