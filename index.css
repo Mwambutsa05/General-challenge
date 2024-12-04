@@ -21,12 +21,7 @@ img{
     border-radius: 5px;
 }
 .profile{
-display: flex;
-justify-content: center;
-align-content: center;
-}
-#img1{
-    border-radius: 50%;
+    
 }
 .middle{
     width: 25%;
